@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dishanc.github.io/sitemap.html.gz
+Sitemap: https://dishanc.github.io/app/sitemap.html.gz
+Sitemap: https://dishanc.github.io/assets/sitemap.html.gz
+Sitemap: https://dishanc.github.io/css/sitemap.html.gz
+Sitemap: https://dishanc.github.io/data/sitemap.html.gz
+Sitemap: https://dishanc.github.io/includes/sitemap.html.gz
+Sitemap: https://dishanc.github.io/item/sitemap.html.gz
+Sitemap: https://dishanc.github.io/src/sitemap.html.gz
